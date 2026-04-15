@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa_sostenible>
+    <stakeholder nombre="Proveedores Cloud" importancia="Alta">
+        <descripcion>Proveedores de centros de datos y servicios en la nube.</descripcion>
+    </stakeholder>
+    
+    <tema_material impacto_asg="Ambiental">
+        <titulo>Eficiencia Energética del Código</titulo>
+        <descripcion>Optimización de software para reducir el consumo eléctrico.</descripcion>
+    </tema_material>
+</empresa_sostenible>

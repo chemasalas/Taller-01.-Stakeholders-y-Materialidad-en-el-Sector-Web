@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<empresa_sostenible>
-    <stakeholder nombre="Proveedores Cloud" importancia="Alta">
-        <descripcion>Proveedores de centros de datos y servicios en la nube.</descripcion>
+<empresa_sostenible> 
+    <stakeholder nombre="Proveedores de Infraestructura Cloud" importancia="Muy Alta">
+        <descripcion>Gestores de centros de datos esenciales para la medición de la huella de carbono digital[cite: 76, 102].</descripcion>
+    </stakeholder>  
+    <stakeholder nombre="Usuarios Finales" importancia="Alta">
+        <descripcion>Receptores directos de las políticas de accesibilidad y seguridad de la información[cite: 77, 102].</descripcion>
+    </stakeholder>   
+    <stakeholder nombre="Equipo de Desarrollo" importancia="Media-Alta">
+        <descripcion>Responsables de la implementación técnica de criterios de Green IT y ética algorítmica[cite: 78, 102].</descripcion>
     </stakeholder>
-    
     <tema_material impacto_asg="Ambiental">
         <titulo>Eficiencia Energética del Código</titulo>
-        <descripcion>Optimización de software para reducir el consumo eléctrico.</descripcion>
+        <descripcion>Optimización de algoritmos para reducir el consumo de energía en servidores y la carga computacional[cite: 76, 91].</descripcion>
+    </tema_material>
+    <tema_material impacto_asg="Social">
+        <titulo>Accesibilidad Universal</titulo>
+        <descripcion>Garantizar que las aplicaciones web sean utilizables por personas con diversidad funcional[cite: 77, 91].</descripcion>
+    </tema_material> 
+    <tema_material impacto_asg="Gobernanza">
+        <titulo>Ética de la IA y Privacidad</titulo>
+        <descripcion>Uso transparente de algoritmos y protección rigurosa de los datos sensibles de los usuarios[cite: 78, 91].</descripcion>
     </tema_material>
 </empresa_sostenible>
